@@ -1644,6 +1644,18 @@
             "url": "/_mozilla/css/floats_margin_collapse_with_clearance_a.html"
           }
         ],
+        "css/floats_percentage_width_a.html": [
+          {
+            "path": "css/floats_percentage_width_a.html",
+            "references": [
+              [
+                "/_mozilla/css/floats_percentage_width_ref.html",
+                "=="
+              ]
+            ],
+            "url": "/_mozilla/css/floats_percentage_width_a.html"
+          }
+        ],
         "css/focus_selector.html": [
           {
             "path": "css/focus_selector.html",
@@ -2278,6 +2290,18 @@
               ]
             ],
             "url": "/_mozilla/css/inline_background_a.html"
+          }
+        ],
+        "css/inline_block_absolute_hypothetical_a.html": [
+          {
+            "path": "css/inline_block_absolute_hypothetical_a.html",
+            "references": [
+              [
+                "/_mozilla/css/inline_block_absolute_hypothetical_ref.html",
+                "=="
+              ]
+            ],
+            "url": "/_mozilla/css/inline_block_absolute_hypothetical_a.html"
           }
         ],
         "css/inline_block_baseline_a.html": [
@@ -8402,6 +8426,18 @@
           "url": "/_mozilla/css/floats_margin_collapse_with_clearance_a.html"
         }
       ],
+      "css/floats_percentage_width_a.html": [
+        {
+          "path": "css/floats_percentage_width_a.html",
+          "references": [
+            [
+              "/_mozilla/css/floats_percentage_width_ref.html",
+              "=="
+            ]
+          ],
+          "url": "/_mozilla/css/floats_percentage_width_a.html"
+        }
+      ],
       "css/focus_selector.html": [
         {
           "path": "css/focus_selector.html",
@@ -9036,6 +9072,18 @@
             ]
           ],
           "url": "/_mozilla/css/inline_background_a.html"
+        }
+      ],
+      "css/inline_block_absolute_hypothetical_a.html": [
+        {
+          "path": "css/inline_block_absolute_hypothetical_a.html",
+          "references": [
+            [
+              "/_mozilla/css/inline_block_absolute_hypothetical_ref.html",
+              "=="
+            ]
+          ],
+          "url": "/_mozilla/css/inline_block_absolute_hypothetical_a.html"
         }
       ],
       "css/inline_block_baseline_a.html": [
